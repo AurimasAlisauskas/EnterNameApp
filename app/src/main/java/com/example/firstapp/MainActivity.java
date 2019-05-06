@@ -38,10 +38,4 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
-
-//    public void showMe(View view){
-//        mTextView.setVisibility(View.VISIBLE);
-//        mTextView.setText(R.string.show_text);
-//    }
 }
