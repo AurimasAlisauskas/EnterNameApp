@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="do_not_press">Do not press</string>
+    <string name="well_done">Well done!</string>
+    <string name="show_text">BLET!</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>
