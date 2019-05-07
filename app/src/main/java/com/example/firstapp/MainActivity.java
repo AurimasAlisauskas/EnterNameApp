@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button mButton;
     private TextView mTextView;
     private EditText mEditText;
 
@@ -18,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mButton = findViewById(R.id.mButton);
+        Button mButton = findViewById(R.id.mButton);
         mButton.setText(R.string.do_not_press);
         mTextView = findViewById(R.id.mTextView);
         mEditText = findViewById(R.id.editText);
